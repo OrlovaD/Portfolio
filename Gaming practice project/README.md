@@ -1,4 +1,4 @@
-### Сборный проект
+### Сборный проект - дополнительная практика
 ## [Анализ рынка компьютерных игр](https://github.com/OrlovaD/Portfolio/blob/main/Gaming%20practice%20project/14_gaming_practice_project.ipynb) 
 
 <br />**Навыки и инструменты**<br />
