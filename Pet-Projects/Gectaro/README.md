@@ -1,5 +1,5 @@
-## Аналитика данных компании Gectaro 
-### (проект в работе)
+## [Анализ отточных пользователей облачного сервиса для строительных компаний](https://github.com/OrlovaD/Portfolio/blob/main/Pet-Projects/Gectaro/gectaro.ipynb) 
+### [Презентация](https://github.com/OrlovaD/Portfolio/blob/main/Pet-Projects/Gectaro/gectaro_preza.pdf)
 <br />**Навыки и инструменты**<br />
 <br />
 * _Python_
