@@ -1,5 +1,5 @@
-## [Анализ отточных пользователей облачного сервиса для строительных компаний](https://github.com/OrlovaD/Portfolio/blob/main/Pet-Projects/Gectaro/gectaro.ipynb) 
-### [Презентация](https://github.com/OrlovaD/Portfolio/blob/main/Pet-Projects/Gectaro/gectaro_preza.pdf)
+## [Анализ отточных пользователей облачного сервиса для строительных компаний](https://github.com/OrlovaD/Portfolio/blob/main/Pet-Projects/Renovation_service/g_project.ipynb) 
+### [Презентация](https://github.com/OrlovaD/Portfolio/blob/main/Pet-Projects/Renovation_service/README.md)
 <br />**Навыки и инструменты**<br />
 <br />
 * _Python_
@@ -7,7 +7,6 @@
 * _matplotlib_
 * _seaborn_
 * _numpy_
-* _phik_
 * _scipy.stats_<br />
 
 **Описание проекта**<br />
