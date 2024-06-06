@@ -1,6 +1,6 @@
 ### Сборный проект-2
 ## [Исследование опроса клиентов телекомунникацонной компании](https://github.com/OrlovaD/Portfolio/blob/main/Dash%26Preza%20Mixed%20project%202/8_telecom_analysis_project.ipynb)
-### [Дашборд](https://public.tableau.com/views/telecomm3_16790800105680/NPS_3?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) и [презентация](https://docs.google.com/presentation/d/11Cx76iwx-tGQcz4I3cQS3Mwveb5_VjC6T2_OudY143s/edit?usp=sharing) к проекту 
+### [Дашборд](https://public.tableau.com/views/telecomm3_16790800105680/NPS_3?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) и [презентация](https://github.com/OrlovaD/Portfolio/blob/main/Dash%26Preza%20Mixed%20project%202/telecom_preza.pdf) к проекту 
 
 <br />**Навыки и инструменты**<br />
 Построение дашбордов, создание презентации
